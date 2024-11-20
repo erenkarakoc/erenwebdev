@@ -194,3 +194,9 @@ a:hover span {
   top: 20px;
   right: 20px;
 }
+
+.lightbox-prev svg,
+.lightbox-next svg,
+.lightbox-close svg {
+  flex-shrink: 0;
+}
